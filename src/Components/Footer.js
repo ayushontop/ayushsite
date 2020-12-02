@@ -19,12 +19,12 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Created with love by  Ayush Tiwari♥️</li>
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; One of my piece of work</li>
+              <li>Design by <a title="Styleshout" href="http://www.instagram.com/ayushontop">Ayush</a></li>
            </ul>
 
         </div>
